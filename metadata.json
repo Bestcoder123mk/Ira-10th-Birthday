@@ -1,0 +1,6 @@
+{
+  "name": "Ira's 10th Birthday Anthem | Shrestha's Celebration",
+  "description": "A celebratory, elegant birthday experience with synchronized song lyrics, music player, and heartfelt tribute for Shrestha (Ira)'s 10th birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
